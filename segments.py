@@ -1,3 +1,5 @@
+"""Finds the intersection of two numeric segments (intervals)."""
+
 a1 = int(input())
 b1 = int(input())
 a2 = int(input())
