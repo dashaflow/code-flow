@@ -1,3 +1,5 @@
+"""Basic color mixer: outputs the result of combining two primary colors."""
+
 color_1 = input()
 color_2 = input()
 a = "red"
