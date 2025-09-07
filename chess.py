@@ -1,3 +1,5 @@
+"""Checks if a queen can move from one square to another in one move."""
+
 x1 = int(input())
 y1 = int(input())
 x2 = int(input())
