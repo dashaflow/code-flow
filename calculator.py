@@ -1,3 +1,5 @@
+"""Simple console calculator supporting +, -, *, / operations."""
+
 a = int(input())
 op = input()
 b = int(input())
@@ -9,8 +11,8 @@ elif op == "*":
     print(a * b)
 elif op == "/":
     if b == 0:
-        print("На ноль делить нельзя!")
+        print("Cannot divide by zero")
     else: 
         print(a / b)  
 else:
-    print("Неверная операция")
+    print("Invalid operation")
