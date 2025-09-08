@@ -4,8 +4,6 @@ A collection of beginner-level Python tasks with solutions.
 
 ---
 
-# Beginner Python Tasks Collection
-
 def square_digits(n):
     """
     Given an integer, square every digit and concatenate them.
