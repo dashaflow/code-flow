@@ -11,3 +11,4 @@ Here I keep my practice, small projects, and ideas.
 - `segments.py` — intersection of two segments
 - `chess.py` — queen move check
 - `colors.py` — basic color mixing
+- `beginner_tasks.py` - collection of small beginner-friendly tasks, continuously updated
