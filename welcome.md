@@ -12,3 +12,4 @@ Here I keep my practice, small projects, and ideas.
 - `chess.py` — queen move check
 - `colors.py` — basic color mixing
 - `beginner_tasks.py` - collection of small beginner-friendly tasks, continuously updated
+- `discount_calculator.py` - calculator of the final purchase amount with a discount
